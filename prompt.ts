@@ -13,7 +13,7 @@ export const getPrompt = lazy(async () => {
     "---\n" +
     aiSignsWikiMd +
     "---\n" +
-    "You should judge whether the following user input is written by AI. You should answer with Yes or No.";
+    "You should judge whether the following user input is written by AI based on the article. You should only answer with a single word: Yes or No.";
 });
 
 if (import.meta.main) {
