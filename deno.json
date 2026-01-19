@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "openai": "npm:openai@^6.16.0",
+    "wtf-plugin-markdown": "npm:wtf-plugin-markdown@^1.0.1",
+    "wtf_wikipedia": "npm:wtf_wikipedia@^10.4.1"
+  }
+}
